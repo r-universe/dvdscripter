@@ -1,5 +1,9 @@
 [
   {
+    "package": "FI",
+    "oncran": true
+  },
+  {
     "package": "ini",
     "oncran": true
   }
