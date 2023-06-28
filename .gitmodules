@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "FI"]
 	path = FI
 	url = https://github.com/dvdscripter/fi
-	shallow = true
-	registered = true
 [submodule "ini"]
 	path = ini
 	url = https://github.com/dvdscripter/ini
-	shallow = true
-	registered = true
